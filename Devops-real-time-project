@@ -1,0 +1,17 @@
+Project 1:
+1.Install Ansible on your machine .
+2. Create aws account and generate secret ,access key there .
+3. Write Ansible playbook to create at least 2  ec2 machines in aws .
+In short we are automating the task to create ec2 instance using Ansible .
+Do try this out and let me know if you face any issue I will try to share solution for this may be in form of any blog or YouTube video .
+
+Project 2 : 
+Step 1 : Install docker on your machine 
+Step 2: write crontab in Linux to check periodically everyday at 2Pm  if docker service is running or not ?
+
+Project 3 : 
+Step 1 .Deploy Jenkins in docker container .
+Step 2 : create GitHub account and create one simple repo there .
+Step 3: Configure Jenkins deployed as container to pull the code from GitHub repo.
+
+Project 4 : create a Jenkins pipeline to build a random image and push to your docker hub account or any cloud registry .
